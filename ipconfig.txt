@@ -1,0 +1,22 @@
+
+Configuration IP de Windows
+
+
+Carte Ethernet Ethernet :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6. . . . . . . . . . .ÿ. . .: fd17:625c:f037:2:63a0:7958:6e0f:d29
+   Adresse IPv6 temporaire . . . . . . . .: fd17:625c:f037:2:c1cf:65ba:c63e:acd4
+   Adresse IPv6 de liaison locale. . . . .: fe80::2c50:c597:4ad3:a9f1%7
+   Adresse IPv4. . . . . . . . . . . . . .: 10.0.2.15
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : fe80::2%7
+	                               10.0.2.2
+
+Carte Ethernet Ethernet 2 :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::8750:be4b:6aeb:597c%14
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.56.102
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
